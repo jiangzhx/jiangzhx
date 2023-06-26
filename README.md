@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-<!--
+
 **jiangzhx/jiangzhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-https://github.com/apache/arrow-datafusion/issues/6630
+  * https://github.com/apache/arrow-datafusion/issues/6630
+  * https://github.com/apache/arrow-datafusion/issues/6289
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,4 +16,4 @@ https://github.com/apache/arrow-datafusion/issues/6630
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
